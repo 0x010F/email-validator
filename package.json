@@ -1,0 +1,24 @@
+{
+  "name": "@ppamkcl/email-validator",
+  "version": "1.0.0",
+  "description": "Simple email validation library",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "nodejs",
+    "email-validator"
+  ],
+  "author": "Pranjal Alone <pranjala@mkcl.org>",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.0.3"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  }
+}
